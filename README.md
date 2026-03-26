@@ -2,7 +2,7 @@
 
 
 ## 概要
-銀行の顧客データから、当該のキャンペーンの結果、定期預金口座を開設するかどうかを予測する。
+銀行の顧客データから、当該のキャンペーンの結果、定期預金口座を開設するかどうかを予測した。
 
 ---
 
@@ -117,7 +117,7 @@ GoogleDriveに"BankCustomer_ipynb.ipynb"を入れ、開く。
 
 ## ファイル
 
-- BankCustomer_ipynb.ipynb
+- bank_customer.ipynb
 
 GoogleColaboratory環境にて実行することを想定
 
